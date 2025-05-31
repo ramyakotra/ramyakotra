@@ -1,6 +1,6 @@
 <h2>👩‍💻 About Me</h2>
 
-<p>Hi there! 👋 I’m <strong>[Your Name]</strong>, a Computer Science student passionate about learning and growing as a developer. I’m currently focused on building strong problem-solving skills through <strong>Data Structures and Algorithms (DSA)</strong> and learning the basics of <strong>Web Development</strong>.</p>
+<p>Hi there! 👋 I’m <strong>Ramya NagaSri</strong>, a Computer Science student passionate about learning and growing as a developer. I’m currently focused on building strong problem-solving skills through <strong>Data Structures and Algorithms (DSA)</strong> and learning the basics of <strong>Web Development</strong>.</p>
 
 <hr/>
 
