@@ -15,7 +15,7 @@
 
 <h3>🛠️ Tech Stack (So Far)</h3>
 <ul>
-  <li><strong>Programming:</strong> C++, Python</li>
+  <li><strong>Programming:</strong> C++, Python, Java</li>
   <li><strong>Web Basics:</strong> HTML, CSS, JavaScript</li>
   <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
 </ul>
