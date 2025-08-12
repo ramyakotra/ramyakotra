@@ -51,7 +51,7 @@
 
 <h3>📫 Let’s Connect!</h3>
 <ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank">yourusername</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourlinkedin" target="_blank">yourlinkedin</a></li>
-  <li><strong>Email:</strong> yourname@example.com</li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank">ramyakotra</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourlinkedin" target="_blank">https://www.linkedin.com/in/ramya-nagasri-kotra-9533552b6</a></li>
+  <li><strong>Email:</strong> kotraramya19@gmail.com</li>
 </ul>
