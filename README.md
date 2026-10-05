@@ -18,6 +18,7 @@
   <li><strong>Programming:</strong> C++, Python, Java, c, SQL</li>
   <li><strong>Web Basics:</strong> HTML, CSS, JavaScript</li>
   <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
+  <li><strong>SAP:</strong> ABAP Cloud, ABAP on HANA, Objected Oriented ABAP, ABAP Workbench</li>
 </ul>
 
 <hr/>
